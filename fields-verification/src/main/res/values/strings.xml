@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Graduation project</string>
+    <string name="login">Логин</string>
+    <string name="title_student_id_number">Номер студенческого билета</string>
+    <string name="password">Пароль</string>
+    <string name="entrance">Вход</string>
+    <string name="settings">Настройки</string>
+    <string name="materials">Материалы</string>
+    <string name="material">Материал</string>
+    <string name="bookmarks">Закладки</string>
+    <string name="info">Информация</string>
+    <string name="more">Подробнее</string>
+    <string name="contact_developer">Связь с разработчиком:\nexample@gmail.com</string>
+    <string name="version">Версия: 1.0.1</string>
+    <string name="delete_account">Удалить аккаунт</string>
+    <string name="exit">Выход</string>
+    <string name="authorization">Авторизация</string>
+    <string name="delete_account_title">Вы точно хотите удалить свой аккаунт?</string>
+    <string name="logout_title">Вы точно хотите выйти?</string>
+    <string name="decline">Отмена</string>
+    <string name="registration">Регистрация</string>
+    <string name="accept">Принять</string>
+    <string name="next">Дальше</string>
+
+    <string name="course">Курс: %d</string>
+    <string name="type">Тип: %s</string>
+
+    <string name="developer_mail">example@gmail.com</string>
+
+    <string name="tutorial_one">Экран закладок. На данном экране можно просматривать материалы, какие вы пометили закладкой. Их не придётся больше искать, они будут всегда под рукой. Но в случае необходимости ненужный материал из закладок можно убрать, нажав на соответствующую иконку</string>
+    <string name="tutorial_two">Экран материалов. На данном экране можно как искать необходимые материалы, при желании можно выставить соответствующие критерии поиска, так и сортировать в нужном порядке результаты поискового запроса</string>
+    <string name="tutorial_three">Экран настроек. На данном экране можно посмотреть информацию о пользователе, его фио, место учёбы, факультет,курс и группу. Также здесь можно изменить логин и пароль, выйти из аккаунты или удалить его</string>
+    <string name="tutorial_four">Экран информации. На данном экране можно посмотреть общую информацию о приложении, его версию и разработчиков, а также проверить наличие обновлений или перечитать Условие пользования и пользовательское соглашение.</string>
+
+    <string name="info_description">Повседневная практика показывает, что реализация намеченных плановых заданий влечет за собой процесс внедрения и модернизации направлений прогрессивного развития. Таким образом начало повседневной работы по формированию позиции требуют определения и уточнения модели развития. </string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+    <string name="title_username">Пользователь</string>
+    <string name="title_course">Курс</string>
+    <string name="title_email">Электронная почта</string>
+    <string name="format_speciality">Специальность: %s</string>
+    <string name="title_student">Студент</string>
+    <string name="title_employee">Работник</string>
+    <string name="title_admin">Администратор</string>
+    <string name="title_teacher">Преподаватель</string>
+    <string name="title_moderator">Модератор</string>
+    <string name="title_specialities">Специальности</string>
+    <string name="error_empty_field">%s не может быть пустым</string>
+    <string name="error_length_too_short">Недостаточно символов. Минимум %d</string>
+    <string name="error_iregula_field">Некорректное значение</string>
+    <string name="role">Роль</string>
+    <string name="title_speciality">Специальность</string>
+    <string name="text_button_download">Скачать</string>
+    <string name="text_button_open">Открыть</string>
+    <string name="text_button_delete">Удалить</string>
+    <string name="search">Поиск...</string>
+    <string name="title_sort">Сортировка</string>
+    <string name="teachers">Преподаватели</string>
+    <string name="menu_title_contact_the_support">Связаться с разработчиком</string>
+    <string name="menu_title_logout">Выход</string>
+</resources>
